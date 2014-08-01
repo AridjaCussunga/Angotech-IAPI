@@ -1,4 +1,4 @@
-       user = sa
+       user = iforcom
        password = inforcom
        sqlserver = localhost:1433
        Instance = SQLEXPRESS
