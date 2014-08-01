@@ -1,0 +1,13 @@
+       user = mizalaque
+       password = mizalaque
+       sqlserver = 127.0.0.1:1433
+       Instance = SQLEXPRESS
+       databaseName = IAPIActual
+
+
+   //*****************************************//
+
+        nao deve haver uma outra linha nem
+        linha embraca entre eles e tem que ser 
+        a mesma ordem
+           melhor trocar so os dados.
